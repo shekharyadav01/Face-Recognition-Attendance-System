@@ -4,7 +4,7 @@ import numpy as np
 import os
 from datetime import datetime
 
-path = "D:\Python Projects\Face Recognition and Attendance\Images"
+path = "Path to directory that contains the sample photographs"
 images = []
 className = []
 mylist = os.listdir(path)
